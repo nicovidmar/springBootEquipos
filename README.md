@@ -1,10 +1,13 @@
 # Proyecto Equipos de Fútbol
 
 # Requisitos
-Docker - 
-Java 17
+Docker -
+Java 17 - 
+Maven
 
 # Docker
+Crear jar: " mvn clean package "
+
 Construir imagen Docker:
 " docker build -t app-image:1.0 . "
 
