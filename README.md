@@ -1,7 +1,7 @@
 # Proyecto Equipos de Fútbol
 
 # Requisitos
-Docker
+Docker - 
 Java 17
 
 # Docker
